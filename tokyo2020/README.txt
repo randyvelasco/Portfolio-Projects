@@ -28,41 +28,31 @@ Key Features: Apache Spark-based platform, collaborative environment, and integr
 
 
 
-Getting Started
-
-To replicate and explore this project, follow these steps:
-
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/randyvelasco/tokyo-2020-olympics-analysis.git
-cd tokyo-2020-olympics-analysis
+Procedures taken:
 
 Set Up Azure Resources:
 
-Create an Azure Data Factory instance.
-Set up Azure Data Lake Storage Gen 2 and configure access.
-Provision an Azure Synapse Analytics workspace.
-Create an Azure Databricks workspace.
+- Create an Azure Data Factory instance.
+- Set up Azure Data Lake Storage Gen 2 and configure access.
+- Provision an Azure Synapse Analytics workspace.
+- Create an Azure Databricks workspace.
 
 Configure Secrets:
 
-Store your Azure credentials and other sensitive information securely in a configuration file or Azure Key Vault.
+- Store Azure credentials and other sensitive information securely in a configuration file or Azure Key Vault.
 
 Run the Data Pipelines:
 
-Execute the ADF pipelines to ingest and transform the data.
-Verify the data is landing in the Data Lake Gen 2 and accessible in Synapse Analytics.
+- Execute the ADF pipelines to ingest and transform the data.
+-Verify the data is landing in the Data Lake Gen 2 and accessible in Synapse Analytics.
 
 Perform Data Analysis:
 
-Leverage Azure Databricks to analyze the data, run Spark jobs, and extract insights.
-Utilize Synapse Analytics for querying and exploring structured data.
+- Leverage Azure Databricks to analyze the data, run Spark jobs, and extract insights.
+- Utilize Synapse Analytics for querying and exploring structured data.
 
 
+Dashboard:
 
-Feedback and Contributions
-If you have any feedback, suggestions, or would like to contribute to this project, please open an issue or submit a pull request. Your input is highly appreciated!
-
-Happy Analyzing! 🏅📊
+- Import datasets from Data Lake Gen 2 to Power BI
+- Create dashboard 
