@@ -25,6 +25,17 @@
         <mxCell id="g0qIa_D1leEmLkeFgXyi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.075;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-4" target="g0qIa_D1leEmLkeFgXyi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-8" value="Event Streams" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-9" value="" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.ibm-cloud--event-streams" vertex="1" parent="g0qIa_D1leEmLkeFgXyi-8">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-10" value="KQL Database" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/kql_database.png;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170.5" width="67" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
