@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.1" y="390" width="257.9" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="100" width="360" height="269.94" as="geometry" />
         </mxCell>
@@ -61,6 +64,15 @@
         <mxCell id="g0qIa_D1leEmLkeFgXyi-14" value="Power BI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="694" y="124.94" width="33.75" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-15" target="g0qIa_D1leEmLkeFgXyi-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="309" />
+              <mxPoint x="770" y="376" />
+              <mxPoint x="719" y="376" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-15" value="Data Activator" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.comset.co.uk/wp-content/uploads/2024/01/data-activator-1200x1200.png;" vertex="1" parent="1">
           <mxGeometry x="687.68" y="285.54" width="46.4" height="46.4" as="geometry" />
         </mxCell>
@@ -71,7 +83,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-24" value="&lt;h1 style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; margin: 0px; padding: 0px; border: 0px; word-break: break-word; font-family: Roboto, Arial, sans-serif; font-size: 2rem; line-height: 2.8rem; overflow: hidden; max-height: 5.6rem; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; text-overflow: ellipsis;&quot; class=&quot;style-scope ytd-watch-metadata&quot;&gt;Realtime Streaming&amp;nbsp;&lt;/h1&gt;&lt;h1 class=&quot;style-scope ytd-watch-metadata&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; word-break: break-word; font-family: Roboto, Arial, sans-serif; font-size: 2rem; line-height: 2.8rem; overflow: hidden; max-height: 5.6rem; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; text-overflow: ellipsis;&quot;&gt;Azure Data Engineering Project&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="114" y="400" width="580" height="90" as="geometry" />
+          <mxGeometry x="122.1" y="520" width="580" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-25" value="Key Vault" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-26" value="Cost Management" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cost_management;" vertex="1" parent="1">
+          <mxGeometry x="270" y="405" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-28" value="Send email alert" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="704.0799999999999" y="420" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
