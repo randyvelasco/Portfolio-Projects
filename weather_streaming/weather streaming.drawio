@@ -25,25 +25,34 @@
         <mxCell id="g0qIa_D1leEmLkeFgXyi-3" value="Azure Functions" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
           <mxGeometry x="144.8" y="255" width="68" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-5" target="g0qIa_D1leEmLkeFgXyi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-5" value="Event Hub" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Event_Hubs.svg;" vertex="1" parent="1">
           <mxGeometry x="300" y="195" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.075;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-4" target="g0qIa_D1leEmLkeFgXyi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-8" target="g0qIa_D1leEmLkeFgXyi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-8" value="Event Streams" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="464" y="189.94" width="48" height="48" as="geometry" />
+          <mxGeometry x="464" y="201" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-9" value="" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.ibm-cloud--event-streams" vertex="1" parent="g0qIa_D1leEmLkeFgXyi-8">
           <mxGeometry width="24" height="24" relative="1" as="geometry">
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-10" target="g0qIa_D1leEmLkeFgXyi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-10" value="Eventhouse&#xa;(Kusto DB)" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/kql_database.png;" vertex="1" parent="1">
-          <mxGeometry x="584" y="180.44" width="67" height="67" as="geometry" />
+          <mxGeometry x="586" y="191" width="67" height="67" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-13" value="Realtime intelligence" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/speed-real-time-cloud-information-computing-process-128.png;clipPath=inset(14.06% 2.34% 15.63% 1.56%);" vertex="1" parent="1">
-          <mxGeometry x="524" y="269.94" width="62" height="45.36585365853659" as="geometry" />
+          <mxGeometry x="490" y="269.63" width="62" height="45.36585365853659" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-14" value="Power BI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;" vertex="1" parent="1">
           <mxGeometry x="694" y="124.94" width="33.75" height="45" as="geometry" />
@@ -52,7 +61,10 @@
           <mxGeometry x="687.68" y="285.54" width="46.4" height="46.4" as="geometry" />
         </mxCell>
         <mxCell id="g0qIa_D1leEmLkeFgXyi-18" value="MS Fabric" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://ebisgroup.com/wp-content/uploads/2024/12/microsoft-fabric-1024x538.png;clipPath=inset(6.33% 25.67% 5.7% 26.33%);labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="574" y="80.06" width="46.49" height="44.88" as="geometry" />
+          <mxGeometry x="464" y="90" width="46.49" height="44.88" as="geometry" />
+        </mxCell>
+        <mxCell id="g0qIa_D1leEmLkeFgXyi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.03;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="g0qIa_D1leEmLkeFgXyi-10" target="g0qIa_D1leEmLkeFgXyi-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
