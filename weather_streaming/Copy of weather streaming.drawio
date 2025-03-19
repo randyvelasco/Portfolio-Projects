@@ -97,6 +97,24 @@
         <mxCell id="g0qIa_D1leEmLkeFgXyi-28" value="Send email alert" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="704.0799999999999" y="390" width="30" height="16.5" as="geometry" />
         </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-1" value="Data Source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="25" y="116" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-2" value="Data Ingestion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="152.8" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-3" value="Data Streaming" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-4" value="Event Processing, Loading, Reporting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="30" width="138" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-5" value="Security and Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="25" y="406.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlNMVn2p2oqaB3hMRyn4-6" value="Monitoring and Alerts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;labelBackgroundColor=#FFFF66;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="579" y="390" width="81" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
