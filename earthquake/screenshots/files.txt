@@ -1,1 +1,13 @@
 
+bronze notebook .png
+gold notebook .png
+gold table.png
+pipeline monitoring.png
+pipeline.png
+power bi mobile edit mode.png
+power bi report desktop version.png
+power bi report mobile version.jpg
+powerbi report edit mode.png
+silver notebook .png
+symantic model.png
+workspace.png
