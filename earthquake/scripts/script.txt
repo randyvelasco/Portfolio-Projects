@@ -1,1 +1,4 @@
 
+01 Worldwide Earthquake Events API - Bronze Layer Processing.ipynb
+02 Worldwide Earthquake Events API - Silver Layer Processing.ipynb
+03 Worldwide Earthquake Events API - Gold Layer Processing.ipynb
