@@ -14,7 +14,22 @@
           <mxGeometry x="260" y="279.63" width="91.0701754385965" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PqfnIOR5tWagAkAa2jEj-5" value="Warehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png;clipPath=inset(5.08% 15.23% 5.47% 14.84%);" vertex="1" parent="1">
-          <mxGeometry x="540" y="279.63" width="98.49" height="126" as="geometry" />
+          <mxGeometry x="640" y="279.63" width="94.09" height="120.37" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+          <mxGeometry x="810" y="308.63" width="51" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-7" value="Warehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png;clipPath=inset(5.08% 15.23% 5.47% 14.84%);" vertex="1" parent="1">
+          <mxGeometry x="450" y="279.63" width="94.09" height="120.37" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Landing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275.54" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Staging&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="469.24" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-10" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
