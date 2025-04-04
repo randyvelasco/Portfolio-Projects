@@ -61,6 +61,9 @@
         <mxCell id="PqfnIOR5tWagAkAa2jEj-21" value="&lt;div&gt;Semantic&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="738.09" y="341.26" width="85.11" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-22" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Reporting&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#2339a9, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="811" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
