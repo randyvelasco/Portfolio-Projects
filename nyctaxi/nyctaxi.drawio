@@ -22,7 +22,7 @@
         <mxCell id="PqfnIOR5tWagAkAa2jEj-5" value="Warehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/data_warehouse.png;clipPath=inset(5.08% 15.23% 5.47% 14.84%);fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="644" y="277.63" width="94.09" height="120.37" as="geometry" />
         </mxCell>
-        <mxCell id="PqfnIOR5tWagAkAa2jEj-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="1">
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-6" value="Power BI&lt;div&gt;Service&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;imageBorder=none;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="297.26" width="51" height="68" as="geometry" />
         </mxCell>
         <mxCell id="PqfnIOR5tWagAkAa2jEj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PqfnIOR5tWagAkAa2jEj-7" target="PqfnIOR5tWagAkAa2jEj-5">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="PqfnIOR5tWagAkAa2jEj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PqfnIOR5tWagAkAa2jEj-5" target="PqfnIOR5tWagAkAa2jEj-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-21" value="&lt;div&gt;Semantic&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="738.09" y="341.26" width="85.11" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
