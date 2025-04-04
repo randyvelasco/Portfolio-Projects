@@ -76,8 +76,8 @@
         <mxCell id="PqfnIOR5tWagAkAa2jEj-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Data Source&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#2339a9, #ededed);" vertex="1" parent="1">
           <mxGeometry x="86.28000000000003" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PqfnIOR5tWagAkAa2jEj-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Microsoft Fabric End-toEnd Data Project&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="419.77" y="500" width="390.23" height="30" as="geometry" />
+        <mxCell id="PqfnIOR5tWagAkAa2jEj-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Microsoft Fabric End-to-End Data Project&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;NYC Taxi 2024: Ride Insights and Trends&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="262.44" y="512" width="455.11" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
