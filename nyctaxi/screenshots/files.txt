@@ -1,1 +1,18 @@
 
+PBI report mobile.png 
+PBI report.png 
+dashboard_dekstop.png 
+dataflow.png 
+lakehouse.png 
+metadata_pipeline_processing_log.png 
+monitor.png 
+pipelines.png 
+pl+orchestrate.png 
+pl_pres_procesing_nyctaxi.png 
+pl_stg_lookup.png 
+pl_stg_processng_nyctaxi.png 
+rawfiles.png 
+semantic model.png 
+warehouse_presentation table.png 
+warehouse_staging tables.png 
+workspace.png
