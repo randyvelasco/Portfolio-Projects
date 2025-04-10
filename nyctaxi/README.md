@@ -2,7 +2,7 @@
 Microsoft Fabric End-to-End Data Engineering Project:
 NYC Taxi 2024: Ride Insights and Trends
 by Randy A. Velasco
-Certified Data Engineer
+Data Engineer
 
 ![nyctaxi drawio](https://github.com/user-attachments/assets/e77c3bc7-3317-433e-a2f4-2f8870bd3742)
 
@@ -11,5 +11,6 @@ pipeline for analyzing 2024 NYC Taxi Trip data. The solution ingests raw data, s
 transformation, prepares it for analysis in a Power BI dashboard, and includes metadatadriven
 automation for continuous data processing.
 
-Please read the accompanying PDF documentation for complete 
+Please read the accompanying documentation for the steps undertaken.
 
+Thanks.
