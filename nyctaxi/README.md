@@ -1,5 +1,6 @@
 
 Microsoft Fabric End-to-End Data Engineering Project:
+
 NYC Taxi 2024: Ride Insights and Trends
 by Randy A. Velasco
 Data Engineer
