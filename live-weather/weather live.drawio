@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.5">
   <diagram name="Page-1" id="Ld1kEqdN9bBFwUcrw0-4">
-    <mxGraphModel>
+    <mxGraphModel dx="1172" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="crLlbDWNQvHQFaTZuZNP-1" target="crLlbDWNQvHQFaTZuZNP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-1" value="Weather API" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="crLlbDWNQvHQFaTZuZNP-2" target="crLlbDWNQvHQFaTZuZNP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-2" value="Spark Notebook" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/notebook.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="208" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-4" value="Lakehouse" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://debruyn.dev/2024/all-microsoft-fabric-icons-for-diagramming/lakehouse.png;" vertex="1" parent="1">
+          <mxGeometry x="300" y="204.5" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="crLlbDWNQvHQFaTZuZNP-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFCC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="530" height="330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
